@@ -1,0 +1,9 @@
+{
+  "name": "bentley-outdoors-website",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Bentley Outdoors static website for Netlify deployment",
+  "scripts": {
+    "build": "node build.js"
+  }
+}
